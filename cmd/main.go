@@ -1,9 +1,9 @@
 package main
 
 import (
-	"testmove/pkg/example"
+	"testmove/pkg/hello"
 )
 
 func main() {
-	example.Hello("world")
+	hello.Hello("world")
 }
